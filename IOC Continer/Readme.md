@@ -4,4 +4,5 @@ Spring IoC Container is the core of Spring Framework. It creates the objects, co
 
 ![m2](https://user-images.githubusercontent.com/49182411/191897386-06b7f5fc-360d-4064-ad90-b6adb30394d9.png)
 
-In this repository how IoC Container works that is shown in xmlConfiguaration directory.To achieve that xml file has been used as a configuration file. 
+In this repository how IoC Container works that is shown in xmlConfiguaration directory.To achieve that xml file has been used as a configuration file. By java annotation and source code it can also be done.
+
